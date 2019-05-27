@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.8.0" timestamp="2019-05-20T12:41:21.682">
+<file name="C:\Users\Vektor\eclipse-workspace\LawyerCompanyV1.3\src\main\java\ua\lviv\iot\models\Advocate.java">
+<violation beginline="19" endline="19" begincolumn="35" endcolumn="35" rule="UnusedFormalParameter" ruleset="Best Practices" package="ua.lviv.iot.models" class="Advocate" method="Advocate" variable="d" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedformalparameter" priority="3">
+Avoid unused constructor parameters such as 'd'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="25" endcolumn="25" rule="UnusedFormalParameter" ruleset="Best Practices" package="ua.lviv.iot.models" class="Advocate" method="Advocate" variable="i" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedformalparameter" priority="3">
+Avoid unused constructor parameters such as 'i'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="76" endcolumn="76" rule="UnusedFormalParameter" ruleset="Best Practices" package="ua.lviv.iot.models" class="Advocate" method="Advocate" variable="j" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedformalparameter" priority="3">
+Avoid unused constructor parameters such as 'j'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="68" endcolumn="69" rule="UnusedFormalParameter" ruleset="Best Practices" package="ua.lviv.iot.models" class="Advocate" method="Advocate" variable="sp" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedformalparameter" priority="3">
+Avoid unused constructor parameters such as 'sp'.
+</violation>
+<violation beginline="19" endline="19" begincolumn="45" endcolumn="50" rule="UnusedFormalParameter" ruleset="Best Practices" package="ua.lviv.iot.models" class="Advocate" method="Advocate" variable="string" externalInfoUrl="https://pmd.github.io/pmd-6.8.0/pmd_rules_java_bestpractices.html#unusedformalparameter" priority="3">
+Avoid unused constructor parameters such as 'string'.
+</violation>
+</file>
+</pmd>
