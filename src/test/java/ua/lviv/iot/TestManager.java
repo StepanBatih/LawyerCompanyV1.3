@@ -32,6 +32,10 @@ class LawyerManagerTest {
         lawyer.addlawyer(vlad);
         lawyer.addlawyer(stepan);
         lawyer.addlawyer(taras);
+		
+		File file = new File("C:\\lawyerlist.csv");
+        LawyerWriter.writeToFile(lawyer.getLawyerList());
+        assertTrue(file.exists());
 
     }
 
